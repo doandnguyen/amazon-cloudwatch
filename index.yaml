@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  amazon-cloudwatch:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-14T13:50:57.9466518+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ebcfbee6dfd57dea1d05246636440d6c74bb92bea2a5930ba49aab79b7ad20d
+    name: amazon-cloudwatch
+    type: application
+    urls:
+    - https://doandnguyen.github.io/amazon-cloudwatch/amazon-cloudwatch-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-14T13:50:57.9418607+07:00"
